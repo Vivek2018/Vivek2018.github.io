@@ -1,0 +1,18 @@
+img {
+    
+    width: 300px;
+    height: 400px;
+}
+
+body
+{   
+    background-image: url("http://orig07.deviantart.net/c6db/f/2015/110/0/9/matrix_animated_image_2_1__by_shabbygirlblog-d8qhr9j.gif");
+    background-color: rgb(0,175,157)  ;
+    text-align: center;
+    font-family: "Comic Sans";
+    color: white;
+    font-size: 20;
+    img: url("http://cdn.whatismyipaddress.com/images-v4/hacking.png");
+    
+    
+}
